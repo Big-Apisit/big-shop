@@ -14,10 +14,10 @@ function App() {
     <React.Fragment>
       <Navbar />
       <Routes>
-        <Route exact path="/" element={ProductList} />
-        <Route path="/details" element={Details} />
-        <Route path="/cart" element={Cart} />
-        <Route element={Default} />
+        <Route exact path="/" element={<ProductList/>}></Route>
+        <Route path="/details" element={<Details/>}></Route>
+        <Route path="/cart" element={<Cart/>}></Route>
+        <Route element={<Default/>}></Route>
       </Routes>
       <Modal />
       </React.Fragment>
