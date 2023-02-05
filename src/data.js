@@ -100,66 +100,66 @@ export const storeProducts = [
     count: 0,
     total: 0
   },
-  {
-    id: 9,
-    title: "MT Food Systems",
-    img: "img/MTFood.png",
-    price: 2,
-    company: "MT",
-    info:
-      "Best Company",
-    inCart: false,
-    count: 0,
-    total: 0
-  },
-  {
-    id: 10,
-    title: "Big MT Food Systems",
-    img: "img/Big.png",
-    price: 2,
-    company: "MT",
-    info:
-      "หล่อมากๆ",
-    inCart: false,
-    count: 0,
-    total: 0
-  },
-  {
-    id: 11,
-    title: "Pop MT Food Systems",
-    img: "img/Pop.png",
-    price: 2,
-    company: "MT",
-    info:
-      "หล่อ รองมาหน่อย",
-    inCart: false,
-    count: 0,
-    total: 0
-  },
-  {
-    id: 12,
-    title: "Min MT Food Systems",
-    img: "img/Min.png",
-    price: 2,
-    company: "MT",
-    info:
-      "หล่องรองจากป๊อปอีกนิด",
-    inCart: false,
-    count: 0,
-    total: 0
-  },
-  {
-    id: 13,
-    title: "Golf MT Food Systems",
-    img: "img/Golf.png",
-    price: 2,
-    company: "MT",
-    info:
-      "ไม่หล่อเลย",
-    inCart: false,
-    count: 0,
-    total: 0
-  },
+  // {
+  //   id: 9,
+  //   title: "MT Food Systems",
+  //   img: "img/MTFood.png",
+  //   price: 2,
+  //   company: "MT",
+  //   info:
+  //     "Best Company",
+  //   inCart: false,
+  //   count: 0,
+  //   total: 0
+  // },
+  // {
+  //   id: 10,
+  //   title: "Big MT Food Systems",
+  //   img: "img/Big.png",
+  //   price: 2,
+  //   company: "MT",
+  //   info:
+  //     "หล่อมากๆ",
+  //   inCart: false,
+  //   count: 0,
+  //   total: 0
+  // },
+  // {
+  //   id: 11,
+  //   title: "Pop MT Food Systems",
+  //   img: "img/Pop.png",
+  //   price: 2,
+  //   company: "MT",
+  //   info:
+  //     "หล่อ รองมาหน่อย",
+  //   inCart: false,
+  //   count: 0,
+  //   total: 0
+  // },
+  // {
+  //   id: 12,
+  //   title: "Min MT Food Systems",
+  //   img: "img/Min.png",
+  //   price: 2,
+  //   company: "MT",
+  //   info:
+  //     "หล่องรองจากป๊อปอีกนิด",
+  //   inCart: false,
+  //   count: 0,
+  //   total: 0
+  // },
+  // {
+  //   id: 13,
+  //   title: "Golf MT Food Systems",
+  //   img: "img/Golf.png",
+  //   price: 2,
+  //   company: "MT",
+  //   info:
+  //     "ไม่หล่อเลย",
+  //   inCart: false,
+  //   count: 0,
+  //   total: 0
+  // },
 ];
 
 export const detailProduct = {
